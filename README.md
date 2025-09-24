@@ -33,7 +33,7 @@ Example configuration:
 }
 ```
 
-🔧 Use Case
+## 🔧 Use Case
 1. FormForge is ideal for:
 
 2. Backend form validation
@@ -44,6 +44,7 @@ Example configuration:
 
 🟢TypeScript-first projects requiring structured input logic
 ---
+
 ## 📦 Installation
 
 ```bash
