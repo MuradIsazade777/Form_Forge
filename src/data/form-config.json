@@ -1,0 +1,6 @@
+{
+  "fields": [
+    { "name": "email", "type": "email", "required": true },
+    { "name": "age", "type": "number", "min": 18 }
+  ]
+}
